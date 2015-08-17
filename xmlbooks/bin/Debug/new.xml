@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Modified file.-->
+<credit-card-data>
+  <holder>Jan Kowalski</holder>
+  <number>412827******9009</number>
+  <cvc>***</cvc>
+  <holder>Anna Kowalski</holder>
+  <number>412827******9111</number>
+  <cvc>***</cvc>
+</credit-card-data>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<credit-card-data>
+<holder>Jan Kowalski</holder>
+<number>4 1 2 8 2 7 0fffffff063629009</number>
+<cvc>123</cvc>
+<holder>Anna Kowalski</holder>
+<number>4 1 2 8 2 7 0fffffff063629111</number>
+<cvc>123</cvc>
+</credit-card-data>

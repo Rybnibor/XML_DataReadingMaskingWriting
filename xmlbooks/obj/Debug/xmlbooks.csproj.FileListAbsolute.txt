@@ -1,0 +1,6 @@
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\xmlbooks\xmlbooks\bin\Debug\xmlbooks.exe.config
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\xmlbooks\xmlbooks\bin\Debug\xmlbooks.exe
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\xmlbooks\xmlbooks\bin\Debug\xmlbooks.pdb
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\xmlbooks\xmlbooks\obj\Debug\xmlbooks.csprojResolveAssemblyReference.cache
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\xmlbooks\xmlbooks\obj\Debug\xmlbooks.exe
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\xmlbooks\xmlbooks\obj\Debug\xmlbooks.pdb

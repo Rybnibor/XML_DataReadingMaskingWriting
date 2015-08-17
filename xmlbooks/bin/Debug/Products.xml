@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product ID="001" Name="Soap">
+  <Price>10.00</Price>
+  <OtherDetails>
+    <BrandName>X Soap</BrandName>
+    <Manufacturer>X Company</Manufacturer>
+  </OtherDetails>
+</Product>

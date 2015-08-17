@@ -1,0 +1,21 @@
+Z zabezpieczeniem
+
+Dany jest XML:
+
+<credit-card-data>
+
+<holder>Jan Kowalski</holder>
+
+<number>4128270063629009</number>
+
+<cvc>123</cvc>
+
+</credit-card-data>
+
+Napisz program, który wczyta dane z XML oraz zapisze go w osobnym pliku maskuj¹c dane karty kredytowej (numer i kod CVC) wg poni¿szego schematu:
+
+Numer: 412827******9009 – Widoczne mog¹ byæ tylko cztery ostatnie i szeœæ pierwszych cyfr
+
+CVC: ***
+
+Uwzglêdnij w algorytmie sytuacje gdy numer karty bêdzie innej d³ugoœci, pusty b¹dŸ bêdzie zawiera³ niedozwolone znaki.
